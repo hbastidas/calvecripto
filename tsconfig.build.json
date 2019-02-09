@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "include": ["calvecripto/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}

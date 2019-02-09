@@ -1,0 +1,6 @@
+{
+  "watch": ["calvecripto"],
+  "ext": "ts",
+  "ignore": ["calvecripto/**/*.spec.ts"],
+  "exec": "ts-node -r tsconfig-paths/register calvecripto/main.ts"
+}
